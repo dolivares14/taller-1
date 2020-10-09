@@ -1,0 +1,105 @@
+*{
+    
+}
+#primera{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#primera p{
+    padding: 2% 2% 5% 5%
+}
+#primera h2{
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.img1{
+   width: 80%;
+   padding-bottom: 3%;
+}
+.segunda h2{
+   padding-left: 3%;
+}
+.segunda p{
+    
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.img2{
+    float: left;
+    width: 45%;
+    height: 45%;
+    padding: 2% 1.5% 0.5% 0%;
+
+}
+.cont3{
+    text-align: center;
+}
+.img3{
+    width: 60%;
+}
+.tercera p{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.tercera h2{
+    padding-left: 3%;
+ }
+ .tercera ul li{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+ }
+ .tercera ul li img{
+     width: 70%;
+     padding-top: 3%;
+
+ }
+ .img4{
+     width: 80%;
+     padding-top: 2%;
+     padding-left: 3%;
+
+ }
+ .cuarta{
+     text-align: center;
+     padding-top: 2%;
+     padding-bottom: 2%;
+ }
+ .cuarta p{
+     padding: 2% 2% 3% 3%;
+ }
+ .cuarta h2{
+     padding-bottom: 3%;
+ }
+ .ultima{
+     background-color: white;
+     color: #0CAFFF;
+ }
+ .ultima h2{
+     text-align: center;
+     padding-top: 2%;
+     padding-bottom: 2%;
+ }
+ .ultima ol{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+ }
+ .ultima ol li{
+     list-style: none;
+     text-align: center;
+     margin-right: 1%;
+     
+ }
+ .cont{
+     text-align: center;
+ }
+
+
+
